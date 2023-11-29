@@ -18,7 +18,7 @@
       </video>
       <div class="board__container container">
         <div class="projects-page__board-content">
-          <h2>Our Projects</h2>
+          <h2>Our companies</h2>
           <p>Development is the key <br>
             to evolution</p>
         </div>
@@ -35,7 +35,7 @@
     <section class="section-template container">
       <div class="section-template__content">
         <div class="content">
-          <h2>Our projects</h2>
+          <h2>Our companies</h2>
           <p>We carry innovation in our DNA. To advance and be competitive, we must analyze the market, <br>
             develop our technology, adapt to the new times and the needs of our customers.</p>
         </div>

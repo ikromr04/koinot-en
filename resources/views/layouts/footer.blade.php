@@ -29,7 +29,7 @@
 
         <dd class="page-footer__menu-item">
           <a class="page-footer__menu-link" href="{{ route('projects') }}">
-            Projects
+            Companies
           </a>
         </dd>
         <dd class="page-footer__menu-item">

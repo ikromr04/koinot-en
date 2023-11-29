@@ -147,7 +147,7 @@
     <section class="main-page__projects">
       <div class="container">
         <div class="content">
-          <h2>Our projects</h2>
+          <h2>Our companies</h2>
           <p>Creation of new jobs, implementation of infrastructure projects, <br>
             direct investments, what we have been doing since the very first day of foundation <br>
             Group of Companies "KOINOTI NAV".</p>
@@ -177,7 +177,7 @@
           </div>
         @endif
 
-        <a class="main-page__more-link" href="{{ route('projects') }}">All our projects</a>
+        <a class="main-page__more-link" href="{{ route('projects') }}">All our companies</a>
       </div>
     </section>
   </main>

@@ -47,7 +47,7 @@
           <h2>Contact us</h2>
           <p>Do you have any questions or want to discuss something with us? <br>
             Please contact our staff or send us a message and we will get back to you as soon as possible.</p>
-          <a href="{{ route('projects') }}">Our projects</a>
+          <a href="{{ route('projects') }}">Our companies</a>
         </div>
       </div>
     </div>
