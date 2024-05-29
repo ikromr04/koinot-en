@@ -59,6 +59,12 @@
       </div>
     </div>
 
+    @if ($data->news->id == 102)
+      <div class="container">
+        <video style="max-width: 100%" src="{{ asset('/video/news.mov') }}" controls></video>
+      </div>
+    @endif
+
     <section class="section-template container">
       <div class="section-template__content">
         <div class="content">
